@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:request_newsapp/model/article_model.dart';
-import 'http/http.dart';
+import'package:http/http.dart';
 
 //Now let's make the HTTP request services
 // this class will alows us to make a simple get http request
