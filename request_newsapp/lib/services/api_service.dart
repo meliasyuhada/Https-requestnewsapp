@@ -14,7 +14,7 @@ class ApiService {
   //NOTE: make sure to use your OWN apikey, you can make a free acount and
   // choose a developer option it's FREE
   final endPointUrl =
-      "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=API_KEY";
+      "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6a9798f1c77a4ad39d4fd0322edfecf5";
 
   //Now let's create the http request function
   // but first let's import the http package
